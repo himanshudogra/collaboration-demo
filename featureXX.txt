@@ -1,1 +1,1 @@
-Feature X implemented by Developer A
+Conflicting changes by Developer B
