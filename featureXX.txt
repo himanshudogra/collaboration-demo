@@ -1,1 +1,1 @@
-Conflicting changes by Developer B
+This is is a new changes file
